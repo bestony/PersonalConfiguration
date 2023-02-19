@@ -13,4 +13,6 @@
 	"contrasted_tabs": true,
 	"contrasted_quick_panel": true,
 	"large_scroll_bars": true,
+	"line_padding_bottom": 3,
+  	"line_padding_top": 3,
 }
